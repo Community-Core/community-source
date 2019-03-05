@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Community Core
+Comment=Community P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Community peer-to-peer Netzwerk
+Comment[fr]=Community, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Community, eşten eşe kriptografik sanal para birimi
+Exec=community-qt %u
+Terminal=false
+Type=Application
+Icon=community128
+MimeType=x-scheme-handler/community;
+Categories=Office;Finance;

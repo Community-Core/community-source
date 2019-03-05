@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[community.qt-translation-012x]
+file_filter = src/qt/locale/community_<lang>.ts
+source_file = src/qt/locale/community_en.ts
+source_lang = en

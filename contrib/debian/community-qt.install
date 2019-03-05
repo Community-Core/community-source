@@ -1,0 +1,6 @@
+usr/local/bin/community-qt usr/bin
+share/pixmaps/community32.xpm usr/share/pixmaps
+share/pixmaps/community16.xpm usr/share/pixmaps
+share/pixmaps/community128.png usr/share/pixmaps
+debian/community-qt.desktop usr/share/applications
+debian/community-qt.protocol usr/share/kde4/services/
